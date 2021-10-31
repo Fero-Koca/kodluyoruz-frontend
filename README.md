@@ -1,2 +1,2 @@
 ﻿# kodluyoruz-frontend
-## İkinci ödev
+* ikinci ödev
